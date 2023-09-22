@@ -1,4 +1,4 @@
-#World Happiness Data Analysis Project
+# World Happiness Data Analysis Project
 The purpose of this data analysis project is to explore world happiness data and uncover correlations between key metrics, including life expectancy, freedom, GDP, and overall happiness scores. Additionally, we aim to identify trends in happiness scores across different countries over a decade. With a particular focus on Finland, consistently ranked as the world's happiest country for five consecutive years, we will analyze various datasets.
 
 ## Datasets
