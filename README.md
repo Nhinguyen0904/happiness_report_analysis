@@ -11,11 +11,14 @@ World Happiness Index 2013-2023
 - Load the dataset.
 - Handle missing values by dropping observations with missing Index and Rank metrics (147 countries).
 - Perform data cleaning and preparation.
+
 World Happiness Report 2013
 - Load the dataset.
 - Handle missing values by dropping rows with missing values in all columns.
 - Perform data cleaning and preparation.
-##Exploratory Data Analysis (EDA)
+
+
+## Exploratory Data Analysis (EDA)
 1. Average Index Over Time
 Calculate the average happiness index across countries for each year from 2013 to 2023.
 Visualize the average index trends over time.
